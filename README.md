@@ -13,11 +13,8 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Acerca de mi:**
-Soy egresado de la carrera de Ingeniería en Ciencias de los
-Materiales de la Universidad Juárez del estado de Durango.
-Durante mi formación profesional adquirí conocimientos útiles
-para el campo de la programación, como habilidades
-matemáticas generales, algoritmos, cálculo, entre otros
+Soy egresado de la carrera de Ingeniería en Ciencias de los Materiales de la Universidad Juárez del estado de Durango.
+Durante mi formación profesional adquirí conocimientos útiles para el campo de la programación, como habilidades matemáticas generales, algoritmos, cálculo, entre otros
 
 ---
 
